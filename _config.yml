@@ -36,9 +36,9 @@ plugins:
 category_dir: category/
 tag_dir: tag/
 comments: 
-  provider: disqus
-disqus:
-  shortname: https-dalkomcandy-github-io
+  provider: "disqus"
+  disqus:
+    shortname: "https-dalkomcandy-github-io"
 
 
 
