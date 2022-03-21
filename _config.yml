@@ -38,7 +38,7 @@ tag_dir: tag/
 comments: 
   provider: disqus
 disqus:
-  shortname: https://dalkomcandy.github.io/
+  shortname: https-dalkomcandy-github-io
 
 
 
